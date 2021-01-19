@@ -1,5 +1,6 @@
 <template>
   <tr>
+      Slight diff
     <td v-for="(value, index) in values" :key="index">
       {{ value }}
     </td>
